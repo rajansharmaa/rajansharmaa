@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @rajansharmaa
-- 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...Web Development
+- 👋 Hi, I’m @rajansharmaa 
+- 👀 I’m currently Working as Laravel Developer
+- 👀 I’m interested in ...Full stack Web Developer
+- 🌱 I’m currently learning ...Web Development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...instagram @omega.coding
+- 📫 How to reach me ...??
 
 <!---
 rajansharmaa/rajansharmaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
